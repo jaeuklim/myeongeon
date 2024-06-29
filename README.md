@@ -1,1 +1,1 @@
-Java 명언 앱 실습
+명언 앱  Java project 실습
